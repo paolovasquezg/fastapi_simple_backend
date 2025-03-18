@@ -1,2 +1,1 @@
-# fastapi_simple_backend
-FastApi test backend
+# FastApi Test backend
